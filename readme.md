@@ -1,4 +1,5 @@
 # Lab: Access Control using Auth0
+*Enda Lee 2021*
 
 This lab describes how to protect the application (api and client app) using the **Auth0** service and **JSON Web Tokens**.
 
