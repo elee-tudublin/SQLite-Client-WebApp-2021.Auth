@@ -1,0 +1,5 @@
+# This is the .env file - rename it (to .env)
+# Contains environement vars
+# name=value
+
+PORT=5000

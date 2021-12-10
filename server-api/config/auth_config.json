@@ -1,0 +1,9 @@
+{
+    "issuer": "https://my-account.eu.auth0.com/",
+    "audience": "https://product-api",
+    "algorithms": ["RS256"],
+    "create": "create:products",
+    "read": "read:products",
+    "update": "update:products",
+    "delete": "delete:products"
+}
